@@ -1,5 +1,7 @@
 # Bgen: Machine Learning for In-Silico Data Generation in Small-Data Batch Process Monitoring
 
+![GitHub Logo]()
+
 ## Introduction
 
 In the field of batch process monitoring, the effectiveness of traditional multivariate techniques like Principal Component Analysis (PCA) and Partial Least Square (PLS) heavily relies on the availability of substantial historical manufacturing data. These methods require ample data to create robust models for monitoring the normal operation of a process. However, the challenge arises when dealing with new products in a manufacturing facility or niche processes where historical data is scarce. Such situations give rise to what we term "small-data scenarios," where the standard tools fall short.
