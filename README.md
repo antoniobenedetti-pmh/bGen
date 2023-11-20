@@ -6,7 +6,7 @@
 
 In the field of batch process monitoring, the effectiveness of traditional multivariate techniques like Principal Component Analysis (PCA) and Partial Least Square (PLS) heavily relies on the availability of substantial historical manufacturing data. These methods require ample data to create robust models for monitoring the normal operation of a process. However, the challenge arises when dealing with new products in a manufacturing facility or niche processes where historical data is scarce. Such situations give rise to what we term "small-data scenarios," where the standard tools fall short.
 
-This repository presents **bGen**, a powerful and innovative tool for batch process monitoring, particularly tailored for small-data scenarios. Bgen is based on a data-driven methodology, as previously reported in the literature (Tulsyan, Garvin & Ündey, J. Process Control, 2019), which leverages machine learning algorithms rooted in Gaussian process state-space models to generate in-silico batch trajectory data from limited historical records. This synthetic data, when combined with the existing real-world data, forms the foundation for constructing an effective process monitoring model.
+This repository presents **bGen**, a powerful and innovative tool for batch process monitoring, particularly tailored for small-data scenarios. bGen is based on a data-driven methodology, as previously reported in the literature (Tulsyan, Garvin & Ündey, J. Process Control, 2019), which leverages machine learning algorithms rooted in Gaussian process state-space models to generate in-silico batch trajectory data from limited historical records. This synthetic data, when combined with the existing real-world data, forms the foundation for constructing an effective process monitoring model.
 
 ## Key Features and Benefits
 
@@ -22,7 +22,7 @@ bGen offers several key features and benefits:
 
 ## Getting Started
 
-Please refer to the [**bGen LiveApp User Manual**](#) for detailed instructions on setting up and using Bgen for your batch process monitoring needs.
+Please refer to the [**bGen LiveApp User Manual**](#) for detailed instructions on setting up and using bGen for your batch process monitoring needs.
 
 ## How bGen Works
 
