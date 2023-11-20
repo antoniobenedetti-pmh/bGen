@@ -1,6 +1,6 @@
 # bGen: Machine Learning for In-Silico Data Generation in Small-Data Batch Process Monitoring
 
-![GitHub Logo](https://github.com/antoniobenedetti-pmh/BGen/blob/main/BGen%20Logo.png)
+![GitHub Logo]()
 
 ## Introduction
 
